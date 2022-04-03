@@ -6,7 +6,8 @@
 - my mail is yhx19103107224@163.com
 
 /*
-Hello everyone which come to my githome.I'm a china student which come from hebeiNormalUniversity.
+Hello!
+welcome everyone which come to my githome.I'm a china student which come from hebeiNormalUniversity.
 My English is a little poor,but it can't influence my interesting in programing.
 May your future and mine be full of hope.
 */
